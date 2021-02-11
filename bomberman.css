@@ -1,0 +1,12 @@
+html {
+  background: black url('background.jpg') center no-repeat;
+  font-family: 'Stalinist One', cursive;
+  height: 800px;
+}
+
+h1 {
+  color: yellow;
+  text-align: center;
+  font-weight: bolder;
+  font-size: 30px;
+}
