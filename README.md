@@ -4,4 +4,4 @@ In this game, you have to move Morty so he doesn't become a Rick. Good luck! The
 
 ## Screenshot
 
-[application screenshot](mortyscreenshot.jpg)
+![application screenshot](mortyscreenshot.jpg)
